@@ -1,0 +1,9 @@
+#components-layout-demo-responsive .logo {
+  height: 100px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.layout-controll{
+    margin-top: 50px;
+}
